@@ -2,6 +2,8 @@
 
 이 Repository는 AIX2026 [창의성 제로] 팀의 Work-Space 입니다
 
+![AIX_INTRO](./etc/images/AIX_Intro.png)
+
 ## 🔗 Links
 
 * [공지사항](https://www.disu.ac.kr/LOCnLOS/AIX/notice)
