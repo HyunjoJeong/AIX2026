@@ -2,6 +2,12 @@
 
 이 Repository는 AIX2026 [창의성 제로] 팀의 Work-Space 입니다
 
+## 🔗 Links
+
+* [공지사항](https://www.disu.ac.kr/LOCnLOS/AIX/notice)
+* [공유폴더](https://drive.google.com/drive/u/1/folders/1uL7M-2AGA0H6bQHT8QZdtpwmOw_0O-Ne)
+* [강의영상](https://docs.google.com/document/d/1HWFrn19eqbd9zlnr6jRicqUifFWDo66qnL-SBKCIKxA/edit?tab=t.0): 해당 README 최하단부에 링크
+
 ## 💁‍♂️ Team Members
 
 |이름|소속|
